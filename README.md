@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning WPEmerge and React
 - 💞️ I’m collaborating with Sepio Systems
-- 📫 How to reach me pedrom@sepio.systems
+- 📫 How to reach me pedrom@sepiocyber.com
 
 <!---
 pedromsepio/pedromsepio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
